@@ -1,4 +1,4 @@
-# git-primeros-pasos}
+# git-primeros-pasos
 
 
 # Un hermoso titulo 
