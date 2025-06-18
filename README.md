@@ -5,8 +5,8 @@
 HOLA MUNDO!!
 
 # COLABORADORES
--Diego Diaz
--otro Diego
+- Diego Diaz
+- otro Diego
 
 # Hermoso sub-titulo 
 Bienvenidos 
